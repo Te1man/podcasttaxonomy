@@ -1,0 +1,2628 @@
+[
+  {
+    "positionTitle": "Исполнительный продюсер",
+    "code": "executiveProducer",
+    "groupName": "Продюсирование",
+    "groupNameEn": "Producing",
+    "enLabel": "Executive Producer",
+    "description": "Исполнительный продюсер — главный продюсер проекта. Степень креативного контроля может сильно различаться: одни EP фактически определяют креативное направление подкаста (по сути беря на себя роль режиссёра), другие работают более дистанционно. Исполнительный продюсер мог привлечь деньги на финансирование производства, но это не обязательная ответственность роли.",
+    "example": "",
+    "aliases": [
+      "Executive Producer",
+      "EP"
+    ]
+  },
+  {
+    "positionTitle": "Генеральный продюсер",
+    "code": "producer",
+    "groupName": "Продюсирование",
+    "groupNameEn": "Producing",
+    "enLabel": "Producer",
+    "description": "Продюсер координирует и осуществляет производство подкаста. В его обязанности могут входить помощь в формировании креативного направления проекта, бюджетирование, исследование, расписание, а также контроль монтажа и финального производства. В нескриптованных подкастах продюсер задаёт рамки для выпуска. Это может быть планирование кратких тематических аутлайнов, которые покрывает выпуск, или вопросов, если проводится интервью. Хотя такие рамки рекомендуются, в зависимости от шоу возможна гибкость, если во время записи был пойман уникальный момент. Другие названия этой роли включают: Podcast Project Manager.",
+    "example": "",
+    "aliases": [
+      "Producer",
+      "General Producer",
+      "Podcast Project Manager",
+      "Podcast Producer",
+      "Подкаст-продюсер",
+      "Show Producer",
+      "Продюсер шоу"
+    ]
+  },
+  {
+    "positionTitle": "Разработчик концепции подкаста",
+    "code": "podcastConceptDeveloper",
+    "groupName": "Продюсирование",
+    "groupNameEn": "Producing",
+    "enLabel": "Podcast Concept Developer",
+    "description": "Выступая в роли предпринимателя, разработчик концепции подкаста отвечает за подкаст (по сути беря на себя роль режиссёра). Он даёт указания, направляющие производство через свою подкаст-экспертизу, и помогает генерировать идеи и решать, какие из них реализовывать. Другие названия этой роли включают: Managing Producer.",
+    "example": "",
+    "aliases": [
+      "Podcast Concept Developer",
+      "Managing Producer"
+    ]
+  },
+  {
+    "positionTitle": "Продюсер разработки",
+    "code": "developmentProducer",
+    "groupName": "Продюсирование",
+    "groupNameEn": "Producing",
+    "enLabel": "Development Producer",
+    "description": "Продюсер разработки координирует и осуществляет предпродакшн креативного направления подкаста. В его обязанности входят поиск новых идей для выпусков и серий и работа с авторами и исследователями, чтобы подготовить концепцию к производству.",
+    "example": "",
+    "aliases": [
+      "Development Producer"
+    ]
+  },
+  {
+    "positionTitle": "Креативный продюсер",
+    "code": "creativeProducer",
+    "groupName": "Продюсирование",
+    "groupNameEn": "Producing",
+    "enLabel": "Creative Producer",
+    "description": "Отвечает за креативную концепцию шоу, формат выпусков и художественные решения.",
+    "example": "",
+    "aliases": [
+      "Creative Producer"
+    ]
+  },
+  {
+    "positionTitle": "Контент-продюсер",
+    "code": "contentProducer",
+    "groupName": "Продюсирование",
+    "groupNameEn": "Producing",
+    "enLabel": "Content Producer",
+    "description": "Планирует и собирает контент выпусков: темы, материалы, структуру и редакционную логику.",
+    "example": "",
+    "aliases": [
+      "Content Producer",
+      "Digital Producer",
+      "Digital-продюсер"
+    ]
+  },
+  {
+    "positionTitle": "Линейный продюсер",
+    "code": "lineProducer",
+    "groupName": "Продюсирование",
+    "groupNameEn": "Producing",
+    "enLabel": "Line Producer",
+    "description": "Управляет бюджетом, сроками и операционной стороной производства на линии проекта.",
+    "example": "",
+    "aliases": [
+      "Line Producer"
+    ]
+  },
+  {
+    "positionTitle": "Ассоциированный продюсер",
+    "code": "associateProducer",
+    "groupName": "Продюсирование",
+    "groupNameEn": "Producing",
+    "enLabel": "Associate Producer",
+    "description": "Ассоциированный продюсер выполняет одну или несколько продюсерских функций, делегированных ему продюсером.",
+    "example": "",
+    "aliases": [
+      "Associate Producer",
+      "AP"
+    ]
+  },
+  {
+    "positionTitle": "Продюсер выпуска",
+    "code": "episodeProducer",
+    "groupName": "Продюсирование",
+    "groupNameEn": "Producing",
+    "enLabel": "Episode Producer",
+    "description": "Ведёт полный цикл одного выпуска: от подготовки до сдачи готового эпизода.",
+    "example": "",
+    "aliases": [
+      "Episode Producer"
+    ]
+  },
+  {
+    "positionTitle": "Продюсер проекта",
+    "code": "projectProducer",
+    "groupName": "Продюсирование",
+    "groupNameEn": "Producing",
+    "enLabel": "Project Producer",
+    "description": "Отвечает за производство конкретного проекта или сезона в рамках студии/сети.",
+    "example": "",
+    "aliases": [
+      "Project Producer"
+    ]
+  },
+  {
+    "positionTitle": "Продюсер прямого эфира",
+    "code": "liveProducer",
+    "groupName": "Продюсирование",
+    "groupNameEn": "Producing",
+    "enLabel": "Live Producer",
+    "description": "Продюсирует live/stream/вещательное производство: сценарий эфира, команда, тайминг и сдача эфирной версии.",
+    "example": "",
+    "aliases": [
+      "Live Producer",
+      "Live Show Producer",
+      "Broadcast Producer",
+      "Продюсер вещания",
+      "Streaming Producer",
+      "Стрим-продюсер"
+    ]
+  },
+  {
+    "positionTitle": "Продюсер постпродакшна",
+    "code": "postProductionProducer",
+    "groupName": "Продюсирование",
+    "groupNameEn": "Producing",
+    "enLabel": "Post-Production Producer",
+    "description": "Управляет этапами постпродакшна: монтаж, звук, графика, дедлайны и качество сдачи.",
+    "example": "",
+    "aliases": [
+      "Post-Production Producer",
+      "Post Producer"
+    ]
+  },
+  {
+    "positionTitle": "Музыкальный продюсер",
+    "code": "musicProducer",
+    "groupName": "Продюсирование",
+    "groupNameEn": "Producing",
+    "enLabel": "Music Producer",
+    "description": "Роль музыкального продакшна (Music Production) помогает создавать музыку отдельно от написания этой музыки. Music Production часто включает креативные решения о методе записи музыки, аранжировке инструментов, использовании эффектов и многом другом.",
+    "example": "",
+    "aliases": [
+      "Music Producer",
+      "Music Production"
+    ]
+  },
+  {
+    "positionTitle": "Саунд-продюсер",
+    "code": "soundProducer",
+    "groupName": "Продюсирование",
+    "groupNameEn": "Producing",
+    "enLabel": "Sound Producer",
+    "description": "Продюсирует звуковую часть производства: запись, обработку и итоговый саунд проекта.",
+    "example": "",
+    "aliases": [
+      "Sound Producer"
+    ]
+  },
+  {
+    "positionTitle": "Видеопродюсер",
+    "code": "videoProducer",
+    "groupName": "Продюсирование",
+    "groupNameEn": "Producing",
+    "enLabel": "Video Producer",
+    "description": "Отвечает за видеопроизводство подкаста: съёмку, команду и сдачу видеоверсии.",
+    "example": "",
+    "aliases": [
+      "Video Producer"
+    ]
+  },
+  {
+    "positionTitle": "Старший продюсер",
+    "code": "seniorProducer",
+    "groupName": "Продюсирование",
+    "groupNameEn": "Producing",
+    "enLabel": "Senior Producer",
+    "description": "Старший продюсер — второй по старшинству продюсер производства (после Executive Producer). Они курируют продюсеров, а также общее направление и логистику всего производства.",
+    "example": "",
+    "aliases": [
+      "Senior Producer"
+    ]
+  },
+  {
+    "positionTitle": "Супервайзер продюсеров",
+    "code": "supervisingProducer",
+    "groupName": "Продюсирование",
+    "groupNameEn": "Producing",
+    "enLabel": "Supervising Producer",
+    "description": "Надзирает за работой продюсерской группы и согласованностью процессов.",
+    "example": "",
+    "aliases": [
+      "Supervising Producer"
+    ]
+  },
+  {
+    "positionTitle": "Шоураннер",
+    "code": "showrunner",
+    "groupName": "Продюсирование",
+    "groupNameEn": "Producing",
+    "enLabel": "Showrunner",
+    "description": "Креативный и операционный лидер шоу: отвечает за видение, тон и итоговый продукт.",
+    "example": "",
+    "aliases": [
+      "Showrunner"
+    ]
+  },
+  {
+    "positionTitle": "Руководитель проекта",
+    "code": "projectManager",
+    "groupName": "Управление",
+    "groupNameEn": "Management",
+    "enLabel": "Project Manager",
+    "description": "Управляет сроками, ресурсами и коммуникацией по проекту производства.",
+    "example": "",
+    "aliases": [
+      "Project Manager"
+    ]
+  },
+  {
+    "positionTitle": "Координатор проекта",
+    "code": "projectCoordinator",
+    "groupName": "Управление",
+    "groupNameEn": "Management",
+    "enLabel": "Project Coordinator",
+    "description": "Координирует задачи, календарь и взаимодействие участников проекта.",
+    "example": "",
+    "aliases": [
+      "Project Coordinator"
+    ]
+  },
+  {
+    "positionTitle": "Координатор производства",
+    "code": "productionCoordinator",
+    "groupName": "Управление",
+    "groupNameEn": "Management",
+    "enLabel": "Production Coordinator",
+    "description": "Координатор производства отвечает за управление логистикой производственного процесса от записи до публикации, включая получение необходимых разрешений и допусков, связывание различных команд производства и записи, координацию создания метаданных постпродакшна, бюджетирование и многое другое.",
+    "example": "",
+    "aliases": [
+      "Production Coordinator"
+    ]
+  },
+  {
+    "positionTitle": "Менеджер производства",
+    "code": "productionManager",
+    "groupName": "Управление",
+    "groupNameEn": "Management",
+    "enLabel": "Production Manager",
+    "description": "Управляет производственной командой, бюджетом линии и операционными рисками.",
+    "example": "",
+    "aliases": [
+      "Production Manager"
+    ]
+  },
+  {
+    "positionTitle": "Ассистент продюсера",
+    "code": "productionAssistant",
+    "groupName": "Управление",
+    "groupNameEn": "Management",
+    "enLabel": "Production Assistant",
+    "description": "Ассистент продюсера помогает поддерживать руководящего участника подкаста (часто режиссёра или продюсера), готовя его разными способами, включая расписание, логистику, коммуникации и многое другое.",
+    "example": "",
+    "aliases": [
+      "Production Assistant",
+      "PA",
+      "Producer Assistant"
+    ]
+  },
+  {
+    "positionTitle": "Раннер",
+    "code": "runner",
+    "groupName": "Управление",
+    "groupNameEn": "Management",
+    "enLabel": "Runner",
+    "description": "Обеспечивает быстрые операционные поручения на площадке и в студии.",
+    "example": "",
+    "aliases": [
+      "Runner"
+    ]
+  },
+  {
+    "positionTitle": "Консультант",
+    "code": "consultant",
+    "groupName": "Управление",
+    "groupNameEn": "Management",
+    "enLabel": "Consultant",
+    "description": "Консультант — сторонняя позиция, когда человек извне организации работает над проектом, часто предлагая конкретную экспертизу. Это роль-модификатор, и её можно применять к любой области работы.",
+    "example": "",
+    "aliases": [
+      "Consultant"
+    ]
+  },
+  {
+    "positionTitle": "Стажёр",
+    "code": "intern",
+    "groupName": "Управление",
+    "groupNameEn": "Management",
+    "enLabel": "Intern",
+    "description": "Стажёр — ученическая позиция, когда человек работает ограниченное время внутри организации, чтобы получить опыт работы в конкретной области. Это роль-модификатор, и её можно применять к любой области работы.",
+    "example": "",
+    "aliases": [
+      "Intern"
+    ]
+  },
+  {
+    "positionTitle": "Ассистент",
+    "code": "assistant",
+    "groupName": "Управление",
+    "groupNameEn": "Management",
+    "enLabel": "Assistant",
+    "description": "Ассистент может поддерживать подкастеров в решении трудоёмких задач. Это может варьироваться от публикаций в соцсетях до ответов на письма, написания описаний подкаста, поиска гостей и многого другого. Другие названия этой роли включают: Virtual Assistant.",
+    "example": "",
+    "aliases": [
+      "Assistant",
+      "Virtual Assistant"
+    ]
+  },
+  {
+    "positionTitle": "Главный редактор",
+    "code": "editorInChief",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Editor-in-Chief",
+    "description": "Определяет редакционную политику и несёт ответственность за качество контента.",
+    "example": "",
+    "aliases": [
+      "Editor-in-Chief"
+    ]
+  },
+  {
+    "positionTitle": "Редакционный директор",
+    "code": "editorialDirector",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Editorial Director",
+    "description": "Редакционный директор возглавляет все подразделения организации за подкастом и несёт ответственность за делегирование задач сотрудникам и управление ими. Это высший по рангу редактор, отвечающий за направление, точность и решения по контенту подкаста.",
+    "example": "",
+    "aliases": [
+      "Editorial Director"
+    ]
+  },
+  {
+    "positionTitle": "Выпускающий редактор",
+    "code": "managingEditor",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Managing Editor",
+    "description": "Выпускающий редактор курирует и координирует редакционную деятельность подкаста, обеспечивая как детальное редактирование, так и управление штатом авторов и редакторов, чтобы соблюдались надлежащие сроки и бюджеты.",
+    "example": "",
+    "aliases": [
+      "Managing Editor",
+      "Executive Editor"
+    ]
+  },
+  {
+    "positionTitle": "Редактор выпуска",
+    "code": "episodeEditor",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Episode Editor",
+    "description": "Редактирует конкретный выпуск: структуру, тексты, смысл и согласованность.",
+    "example": "",
+    "aliases": [
+      "Episode Editor"
+    ]
+  },
+  {
+    "positionTitle": "Контент-редактор",
+    "code": "contentEditor",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Content Editor",
+    "description": "Редактирует контент шоу: темы, формулировки, формат и соответствие голосу бренда.",
+    "example": "",
+    "aliases": [
+      "Content Editor"
+    ]
+  },
+  {
+    "positionTitle": "Литературный редактор",
+    "code": "scriptEditor",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Script Editor",
+    "description": "Литературный редактор (Script Editor) даёт заметки и правки к сценарию записи в очень «hands-on» роли. Script Editor в первую очередь используется в fiction, документалистике и рекламе, где преобладают скриптованные записи.",
+    "example": "",
+    "aliases": [
+      "Script Editor",
+      "Literary Editor"
+    ]
+  },
+  {
+    "positionTitle": "Редактор истории",
+    "code": "storyEditor",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Story Editor",
+    "description": "Редактор истории отвечает за общее направление сюжетной арки и развитие персонажей подкаста. Часто встречается в художественных и документальных подкастах.",
+    "example": "",
+    "aliases": [
+      "Story Editor"
+    ]
+  },
+  {
+    "positionTitle": "Координатор сценария",
+    "code": "scriptCoordinator",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Script Coordinator",
+    "description": "Координатор сценария упаковывает финальный сценарий с аннотациями, которые отражают конкретную логистику и креативные ремарки для записи и производства.",
+    "example": "",
+    "aliases": [
+      "Script Coordinator"
+    ]
+  },
+  {
+    "positionTitle": "Редактор",
+    "code": "editor",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Editor",
+    "description": "Редактор просматривает и готовит сценарии для передачи информации креативным, точным и увлекательным образом.",
+    "example": "",
+    "aliases": [
+      "Editor"
+    ]
+  },
+  {
+    "positionTitle": "Автор",
+    "code": "writer",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Writer",
+    "description": "Автор написал историю или диалоги подкаста. Он часто участвует в креативной арке производства, но это не обязательное требование. Авторы могут работать в скриптованных подкастах — как художественных, так и документальных — самостоятельно или в партнёрстве с 1–2 другими авторами при необходимости. В зависимости от требований подкаста сценарий, который создаёт автор, может читаться слово в слово в опубликованном выпуске.",
+    "example": "",
+    "aliases": [
+      "Writer"
+    ]
+  },
+  {
+    "positionTitle": "Автор исходного текста",
+    "code": "author",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Author",
+    "description": "Автор исходного текста написал прозу или поэзию, изначально предназначенную для текста, которая теперь читается дословно в эфире.",
+    "example": "",
+    "aliases": [
+      "Author"
+    ]
+  },
+  {
+    "positionTitle": "Автор песен",
+    "code": "songwriter",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Songwriter",
+    "description": "Автор песен написал текст и/или сопровождающую музыку к оригинальной песне, созданной для подкаста и звучащей в выпуске. Другие названия этой роли включают: Lyricist.",
+    "example": "",
+    "aliases": [
+      "Songwriter",
+      "Lyricist"
+    ]
+  },
+  {
+    "positionTitle": "Автор проекта",
+    "code": "creator",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Creator",
+    "description": "Автор концепции и смыслового ядра проекта.",
+    "example": "",
+    "aliases": [
+      "Creator",
+      "Project Creator"
+    ]
+  },
+  {
+    "positionTitle": "Автор идеи",
+    "code": "conceptCreator",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Concept Creator",
+    "description": "Формулирует исходную идею шоу, формата или серии выпусков.",
+    "example": "",
+    "aliases": [
+      "Concept Creator"
+    ]
+  },
+  {
+    "positionTitle": "Сценарист",
+    "code": "scriptwriter",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Scriptwriter",
+    "description": "Пишет сценарий выпуска: реплики, блоки, переходы и структуру повествования.",
+    "example": "",
+    "aliases": [
+      "Scriptwriter",
+      "Writer"
+    ]
+  },
+  {
+    "positionTitle": "Старший сценарист",
+    "code": "headWriter",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Head Writer",
+    "description": "Руководит сценарной группой и отвечает за единый голос и драматургию шоу.",
+    "example": "",
+    "aliases": [
+      "Head Writer"
+    ]
+  },
+  {
+    "positionTitle": "Копирайтер",
+    "code": "copywriter",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Copywriter",
+    "description": "Пишет рекламные и коммуникационные тексты: анонсы, описания, кампании.",
+    "example": "",
+    "aliases": [
+      "Copywriter"
+    ]
+  },
+  {
+    "positionTitle": "Журналист",
+    "code": "journalist",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Journalist",
+    "description": "Собирает факты, проводит интервью и готовит журналистский материал для выпуска.",
+    "example": "",
+    "aliases": [
+      "Journalist"
+    ]
+  },
+  {
+    "positionTitle": "Исследователь",
+    "code": "researcher",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Researcher",
+    "description": "Исследователь координирует поиск и верификацию информации, которая затем может использоваться для контента выпуска подкаста, часто влияя на направление истории на основе новых найденных сведений.",
+    "example": "",
+    "aliases": [
+      "Researcher"
+    ]
+  },
+  {
+    "positionTitle": "Фактчекер",
+    "code": "factChecker",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Fact Checker",
+    "description": "Фактчекер проверяет контент подкаста на фактическую корректность и подтверждает, что атрибуция цитат верна. Он использует различные инструменты, включая сторонние исследования и индивидуальные запросы. Часто фактчекер также даёт заметки о том, как производство может избежать путаницы в подаче информации в выпуске.",
+    "example": "",
+    "aliases": [
+      "Fact Checker",
+      "Fact-checker"
+    ]
+  },
+  {
+    "positionTitle": "Переводчик",
+    "code": "translator",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Translator",
+    "description": "Переводчик переводит контент с одного языка на другой для подкаста. Это могут быть интервью, диалоги, текстовые документы и многое другое. Работа переводчика может использоваться в эфире или за кадром в процессе производства/исследования.",
+    "example": "",
+    "aliases": [
+      "Translator"
+    ]
+  },
+  {
+    "positionTitle": "Расшифровщик",
+    "code": "transcriber",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Transcriber",
+    "description": "Расшифровщик превращает диалоги и звуковые ремарки в текст, который может использоваться внутри для производственных процессов, для маркетинга или отображаться публично для слушателей.",
+    "example": "",
+    "aliases": [
+      "Transcriber"
+    ]
+  },
+  {
+    "positionTitle": "Логгер",
+    "code": "logger",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Logger",
+    "description": "Логгер просматривает и документирует содержание и таймкоды сырого аудио в интересах продюсеров и монтажёров в производственном процессе.",
+    "example": "",
+    "aliases": [
+      "Logger"
+    ]
+  },
+  {
+    "positionTitle": "Репортёр",
+    "code": "reporter",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Reporter",
+    "description": "Репортёр находит и расследует новости или истории для подкаста, часто беря интервью у героев и проводя исследование. Репортёр может быть и эфирной позицией, доносящей результаты своего расследования.",
+    "example": "",
+    "aliases": [
+      "Reporter"
+    ]
+  },
+  {
+    "positionTitle": "Корректор",
+    "code": "proofreader",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Proofreader",
+    "description": "Вычитывает тексты на ошибки, опечатки и формальную аккуратность.",
+    "example": "",
+    "aliases": [
+      "Proofreader"
+    ]
+  },
+  {
+    "positionTitle": "Story Producer",
+    "code": "storyProducer",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Story Producer",
+    "description": "Собирает и развивает сюжетную линию выпуска: герои, арка, ключевые моменты.",
+    "example": "",
+    "aliases": []
+  },
+  {
+    "positionTitle": "Script Doctor",
+    "code": "scriptDoctor",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Script Doctor",
+    "description": "Дорабатывает и «лечит» сценарий: структура, темп, ясность, драматургия.",
+    "example": "",
+    "aliases": []
+  },
+  {
+    "positionTitle": "Автор интервью",
+    "code": "interviewWriter",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Interview Writer",
+    "description": "Готовит вопросы, логику интервью и текстовую подготовку к разговору с гостем.",
+    "example": "",
+    "aliases": [
+      "Interview Writer"
+    ]
+  },
+  {
+    "positionTitle": "Автор шоу-нотов",
+    "code": "showNotesWriter",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Show Notes Writer",
+    "description": "Пишет шоу-ноты: краткое содержание, ссылки, таймкоды и полезные пометки к выпуску.",
+    "example": "",
+    "aliases": [
+      "Show Notes Writer"
+    ]
+  },
+  {
+    "positionTitle": "Автор таймкодов",
+    "code": "chaptersWriter",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Chapters Writer",
+    "description": "Размечает выпуск таймкодами и главами для навигации слушателя.",
+    "example": "",
+    "aliases": [
+      "Chapters Writer",
+      "Timestamps Writer",
+      "Timecodes Writer"
+    ]
+  },
+  {
+    "positionTitle": "Автор описаний",
+    "code": "contentWriter",
+    "groupName": "Авторы и редакция",
+    "groupNameEn": "Writing and Editorial",
+    "enLabel": "Content Writer",
+    "description": "Пишет описания выпусков и сопутствующие тексты для площадок публикации.",
+    "example": "",
+    "aliases": [
+      "Content Writer",
+      "Description Writer"
+    ]
+  },
+  {
+    "positionTitle": "Ведущий",
+    "code": "host",
+    "groupName": "Ведущие",
+    "groupNameEn": "Hosts and Talent",
+    "enLabel": "Host",
+    "description": "Ведущий — эфирный мастер церемоний подкаста и постоянное присутствие почти в каждом выпуске (за исключением гостевых ведущих и альтернативных эпизодов). Обязанности ведущего могут включать проведение интервью, представление историй и сегментов, наррацию и многое другое. На подкаст или выпуск может быть больше одного ведущего, и ведущий может брать на себя роль временно. Другие названия этой роли включают: Co-Host.",
+    "example": "",
+    "aliases": [
+      "Host",
+      "Co-Host"
+    ]
+  },
+  {
+    "positionTitle": "Соведущий",
+    "code": "coHost",
+    "groupName": "Ведущие",
+    "groupNameEn": "Hosts and Talent",
+    "enLabel": "Co-host",
+    "description": "Делит ведение выпуска с основным ведущим, дополняет динамику и роли в эфире.",
+    "example": "",
+    "aliases": [
+      "Co-host",
+      "Co-Host"
+    ]
+  },
+  {
+    "positionTitle": "Интервьюер",
+    "code": "interviewer",
+    "groupName": "Ведущие",
+    "groupNameEn": "Hosts and Talent",
+    "enLabel": "Interviewer",
+    "description": "Проводит интервью: задаёт вопросы, углубляет тему и управляет разговором с гостем.",
+    "example": "",
+    "aliases": [
+      "Interviewer"
+    ]
+  },
+  {
+    "positionTitle": "Модератор",
+    "code": "moderator",
+    "groupName": "Ведущие",
+    "groupNameEn": "Hosts and Talent",
+    "enLabel": "Moderator",
+    "description": "Модерирует дискуссию, панельную беседу или эфир с несколькими участниками.",
+    "example": "",
+    "aliases": [
+      "Moderator"
+    ]
+  },
+  {
+    "positionTitle": "Комментатор",
+    "code": "commentator",
+    "groupName": "Ведущие",
+    "groupNameEn": "Hosts and Talent",
+    "enLabel": "Commentator",
+    "description": "Комментирует события, матчи или происходящее в эфире, добавляя экспертный слой.",
+    "example": "",
+    "aliases": [
+      "Commentator"
+    ]
+  },
+  {
+    "positionTitle": "Радиоведущий",
+    "code": "radioHost",
+    "groupName": "Ведущие",
+    "groupNameEn": "Hosts and Talent",
+    "enLabel": "Radio Host",
+    "description": "Ведёт эфир в радиоформате: блоки, переходы, общение со слушателями.",
+    "example": "",
+    "aliases": [
+      "Radio Host",
+      "Radio Presenter"
+    ]
+  },
+  {
+    "positionTitle": "Диктор",
+    "code": "announcer",
+    "groupName": "Ведущие",
+    "groupNameEn": "Hosts and Talent",
+    "enLabel": "Announcer",
+    "description": "Диктор даёт короткие голосовые исполнения для представления подкаста, тем выпусков, сегментов, гостей, призов и т.д. Диктор вторичен по отношению к ведущему подкаста и часто выполняет свои представления в скриптованном, продюсированном виде. Он не обязательно играет роль в основной нарративной линии или самом выпуске. Другие названия этой роли включают: Imaging Voice.",
+    "example": "",
+    "aliases": [
+      "Announcer",
+      "Imaging Voice"
+    ]
+  },
+  {
+    "positionTitle": "Гость",
+    "code": "guest",
+    "groupName": "Ведущие",
+    "groupNameEn": "Hosts and Talent",
+    "enLabel": "Guest",
+    "description": "Гость — внешний участник, который появляется в выпуске в эфире. Он может участвовать в панели, быть героем интервью или временно выполнять обязанности ведущего, автора или других ролей, описанных в этом документе, на время выпуска. Другие названия этой роли включают: Guest Host, Guest Writer.",
+    "example": "",
+    "aliases": [
+      "Guest",
+      "Guest Host",
+      "Guest Writer"
+    ]
+  },
+  {
+    "positionTitle": "Игрок",
+    "code": "player",
+    "groupName": "Ведущие",
+    "groupNameEn": "Hosts and Talent",
+    "enLabel": "Player",
+    "description": "Игрок даёт исполнение, в котором участвует в длинном интерактивном событии, нарративе или игре внутри подкаста. Это может быть в форме импровизированных художественных персонажей, спонтанного диалога и другого для развивающегося нарратива. Примеры можно найти в подкасте по Dungeons and Dragons, где игроки участвуют с созданным персонажем. Другие игроки сильнее влияют на креативное направление подкаста через импровизационный сторителлинг, аутлайн выпусков и создание опыта для остальных участников каста. Другие названия этой роли включают: Game Master.",
+    "example": "",
+    "aliases": [
+      "Player",
+      "Game Master"
+    ]
+  },
+  {
+    "positionTitle": "Голос за кадром",
+    "code": "voiceOverArtist",
+    "groupName": "Ведущие",
+    "groupNameEn": "Hosts and Talent",
+    "enLabel": "Voice Over Artist",
+    "description": "Озвучивает закадровый текст в видео- или аудиоверсии выпуска.",
+    "example": "",
+    "aliases": [
+      "Voice Over Artist",
+      "VO Artist",
+      "Voice-over Artist"
+    ]
+  },
+  {
+    "positionTitle": "Актёр озвучивания",
+    "code": "voiceActor",
+    "groupName": "Ведущие",
+    "groupNameEn": "Hosts and Talent",
+    "enLabel": "Voice Actor",
+    "description": "Актёр озвучивания даёт исполнение, в котором отдаёт свой голос роли персонажа в выпуске подкаста. Хотя большинство ролей озвучивания будут художественными, роль актёра озвучивания может также охватывать реконструкции реальных разговоров и людей.",
+    "example": "",
+    "aliases": [
+      "Voice Actor",
+      "Voice Artist"
+    ]
+  },
+  {
+    "positionTitle": "Рассказчик",
+    "code": "narrator",
+    "groupName": "Ведущие",
+    "groupNameEn": "Hosts and Talent",
+    "enLabel": "Narrator",
+    "description": "Рассказчик даёт исполнение, в котором ведёт экспозицию художественной или документальной истории, часто по сценарию. Рассказчик может также исполнять голоса персонажей внутри истории, при условии что он по-прежнему сохраняет роль рассказчика экспозиции или «голоса Бога» (Voice of God).",
+    "example": "",
+    "aliases": [
+      "Narrator"
+    ]
+  },
+  {
+    "positionTitle": "Координатор букинга",
+    "code": "bookingCoordinator",
+    "groupName": "Работа с гостями",
+    "groupNameEn": "Guest Relations",
+    "enLabel": "Booking Coordinator",
+    "description": "Координатор букинга отвечает за привлечение новых гостей на интервью, включая поиск гостей, расписание интервью, онбординг-материалы и процессы после публикации.",
+    "example": "",
+    "aliases": [
+      "Booking Coordinator",
+      "Booker",
+      "Букер",
+      "Booking Producer",
+      "Talent Booker"
+    ]
+  },
+  {
+    "positionTitle": "Менеджер по работе с гостями",
+    "code": "guestManager",
+    "groupName": "Работа с гостями",
+    "groupNameEn": "Guest Relations",
+    "enLabel": "Guest Manager",
+    "description": "Ведёт работу с гостями end-to-end: подбор и букинг совместно с координатором букинга, подготовку, бриф, логистику на площадке и сопровождение до и после эфира.",
+    "example": "",
+    "aliases": [
+      "Guest Manager",
+      "Guest Producer",
+      "Продюсер гостей",
+      "Guest Coordinator",
+      "Координатор гостей",
+      "Guest Assistant",
+      "Ассистент гостей"
+    ]
+  },
+  {
+    "positionTitle": "Менеджер талантов",
+    "code": "talentManager",
+    "groupName": "Работа с гостями",
+    "groupNameEn": "Guest Relations",
+    "enLabel": "Talent Manager",
+    "description": "Менеджер талантов курирует координацию, управление и сопровождение талантов, актёров и других ключевых персон внутри компании. Это стратегическая роль высокого уровня, включающая управление стратегиями запусков, взаимодействие с талантами и работу с одной или несколькими структурами.",
+    "example": "",
+    "aliases": [
+      "Talent Manager"
+    ]
+  },
+  {
+    "positionTitle": "Режиссёр",
+    "code": "director",
+    "groupName": "Режиссура",
+    "groupNameEn": "Direction",
+    "enLabel": "Director",
+    "description": "Режиссёр возглавляет всю креативную постановку — от художественных деталей до логистики. Обычно на проекте один режиссёр. Эта роль чаще всего встречается в художественных (fiction) подкастах.",
+    "example": "",
+    "aliases": [
+      "Director"
+    ]
+  },
+  {
+    "positionTitle": "Креативный директор",
+    "code": "creativeDirector",
+    "groupName": "Режиссура",
+    "groupNameEn": "Direction",
+    "enLabel": "Creative Director",
+    "description": "Креативный директор отвечает за креативную стратегию и реализацию всей серии. Часто эта роль выходит за пределы контента и влияет на сопутствующий артворк, музыку, маркетинговые кампании и многое другое.",
+    "example": "",
+    "aliases": [
+      "Creative Director"
+    ]
+  },
+  {
+    "positionTitle": "Второй режиссёр",
+    "code": "assistantDirector",
+    "groupName": "Режиссура",
+    "groupNameEn": "Direction",
+    "enLabel": "Assistant Director",
+    "description": "Второй режиссёр — связующее звено между режиссёром и остальной командой производства; часто координирует повседневную логистику производства. На проекте может быть несколько вторых режиссёров. Эта роль чаще всего встречается в художественных (fiction) подкастах.",
+    "example": "",
+    "aliases": [
+      "Assistant Director",
+      "AD",
+      "First Assistant Director",
+      "2nd AD"
+    ]
+  },
+  {
+    "positionTitle": "Ассистент режиссёра",
+    "code": "directorSAssistant",
+    "groupName": "Режиссура",
+    "groupNameEn": "Direction",
+    "enLabel": "Director's Assistant",
+    "description": "Поддерживает режиссёра в организационных и постановочных задачах.",
+    "example": "",
+    "aliases": [
+      "Director's Assistant",
+      "Assistant Director",
+      "AD"
+    ]
+  },
+  {
+    "positionTitle": "Режиссёр монтажа",
+    "code": "editingDirector",
+    "groupName": "Режиссура",
+    "groupNameEn": "Direction",
+    "enLabel": "Editing Director",
+    "description": "Определяет монтажную драматургию и финальный ритм готового выпуска.",
+    "example": "",
+    "aliases": [
+      "Editing Director",
+      "Post Director"
+    ]
+  },
+  {
+    "positionTitle": "Режиссёр прямого эфира",
+    "code": "liveDirector",
+    "groupName": "Режиссура",
+    "groupNameEn": "Direction",
+    "enLabel": "Live Director",
+    "description": "Режиссирует прямой эфир, трансляцию или многокамерную съёмку: камеры, блоки, переключения и работу площадки в реальном времени.",
+    "example": "",
+    "aliases": [
+      "Live Director",
+      "Broadcast Director",
+      "Режиссёр трансляции",
+      "Multi-camera Director",
+      "Multicam Director",
+      "Режиссёр многокамерной съёмки"
+    ]
+  },
+  {
+    "positionTitle": "Технический директор",
+    "code": "technicalDirector",
+    "groupName": "Режиссура",
+    "groupNameEn": "Direction",
+    "enLabel": "Technical Director",
+    "description": "Технический директор курирует запись и производство подкаста в части аудиотехнологий, включая оборудование и программное обеспечение, а также управляет ролями, связанными с этими областями.",
+    "example": "",
+    "aliases": [
+      "Technical Director",
+      "TD"
+    ]
+  },
+  {
+    "positionTitle": "Floor Manager",
+    "code": "floorManager",
+    "groupName": "Режиссура",
+    "groupNameEn": "Direction",
+    "enLabel": "Floor Manager",
+    "description": "Координирует площадку во время съёмки/эфира: тайминг, участников, команды режиссёра.",
+    "example": "",
+    "aliases": [
+      "Floor Director",
+      "Stage Manager"
+    ]
+  },
+  {
+    "positionTitle": "Скрипт-супервайзер",
+    "code": "scriptSupervisor",
+    "groupName": "Режиссура",
+    "groupNameEn": "Direction",
+    "enLabel": "Script Supervisor",
+    "description": "Следит за соответствием сценарию, непрерывностью и фиксацией дублей/правок.",
+    "example": "",
+    "aliases": [
+      "Script Supervisor"
+    ]
+  },
+  {
+    "positionTitle": "Оператор-постановщик",
+    "code": "directorOfPhotography",
+    "groupName": "Камеры",
+    "groupNameEn": "Camera",
+    "enLabel": "Director of Photography",
+    "description": "Отвечает за визуальный язык съёмки: свет, композицию, камеры и итоговую картинку.",
+    "example": "",
+    "aliases": [
+      "Director of Photography",
+      "DoP",
+      "DP",
+      "Cinematographer"
+    ]
+  },
+  {
+    "positionTitle": "Видеооператор",
+    "code": "cameraOperator",
+    "groupName": "Камеры",
+    "groupNameEn": "Camera",
+    "enLabel": "Camera Operator",
+    "description": "Видеооператор отвечает за съёмку и запись всех аспектов сцены для фильма и телевидения. Он должен понимать технические детали работы с камерой, правильно кадрировать план с учётом света и постановки, фокусировать объектив и иметь визуальный глаз, чтобы добиваться конкретного образа. Включает работу второй/третьей камеры и студийную схему, если нет отдельного спец. оператора.",
+    "example": "",
+    "aliases": [
+      "Camera Operator",
+      "Second Camera Operator",
+      "B-Camera Operator",
+      "Второй оператор",
+      "Third Camera Operator",
+      "C-Camera Operator",
+      "Третий оператор",
+      "Studio Camera Operator",
+      "Студийный оператор"
+    ]
+  },
+  {
+    "positionTitle": "Оператор Steadicam",
+    "code": "steadicamOperator",
+    "groupName": "Камеры",
+    "groupNameEn": "Camera",
+    "enLabel": "Steadicam Operator",
+    "description": "Снимает стабилизированные динамичные планы со Steadicam.",
+    "example": "",
+    "aliases": [
+      "Steadicam Operator"
+    ]
+  },
+  {
+    "positionTitle": "FPV-оператор",
+    "code": "fpvPilot",
+    "groupName": "Камеры",
+    "groupNameEn": "Camera",
+    "enLabel": "FPV Pilot",
+    "description": "Пилотирует FPV-дрон для динамичных и спецпланов.",
+    "example": "",
+    "aliases": [
+      "FPV Pilot",
+      "FPV Operator"
+    ]
+  },
+  {
+    "positionTitle": "Оператор дрона",
+    "code": "droneOperator",
+    "groupName": "Камеры",
+    "groupNameEn": "Camera",
+    "enLabel": "Drone Operator",
+    "description": "Снимает аэропланы и управляет дроном на площадке.",
+    "example": "",
+    "aliases": [
+      "Drone Operator",
+      "Drone Pilot"
+    ]
+  },
+  {
+    "positionTitle": "PTZ-оператор",
+    "code": "ptzCameraOperator",
+    "groupName": "Камеры",
+    "groupNameEn": "Camera",
+    "enLabel": "PTZ Camera Operator",
+    "description": "Управляет PTZ-камерами: панорама, наезд, пресеты и эфирные переключения.",
+    "example": "",
+    "aliases": [
+      "PTZ Camera Operator",
+      "PTZ Operator"
+    ]
+  },
+  {
+    "positionTitle": "Оператор крана",
+    "code": "craneOperator",
+    "groupName": "Камеры",
+    "groupNameEn": "Camera",
+    "enLabel": "Crane Operator",
+    "description": "Управляет камерой на кране/джибе для сложных планов.",
+    "example": "",
+    "aliases": [
+      "Crane Operator",
+      "Jib Operator"
+    ]
+  },
+  {
+    "positionTitle": "Ассистент оператора",
+    "code": "cameraAssistant",
+    "groupName": "Камеры",
+    "groupNameEn": "Camera",
+    "enLabel": "Camera Assistant",
+    "description": "Помогает оператору: подготовка камер, объективы, кабели, смена носителей.",
+    "example": "",
+    "aliases": [
+      "Camera Assistant",
+      "AC"
+    ]
+  },
+  {
+    "positionTitle": "Фокус-пуллер",
+    "code": "focusPuller",
+    "groupName": "Камеры",
+    "groupNameEn": "Camera",
+    "enLabel": "Focus Puller",
+    "description": "1st AC отвечает за камерное оборудование, собирает камеры перед началом каждого дня, организует все части и различные аксессуары, меняет объективы при необходимости, а также тянет фокус для DP и операторов. AC также закрывает день: чистит камеры, пишет камерные заметки, маркирует носители и передаёт их DIT.",
+    "example": "",
+    "aliases": [
+      "Focus Puller",
+      "1st AC",
+      "First AC",
+      "Assistant Camera"
+    ]
+  },
+  {
+    "positionTitle": "Second AC",
+    "code": "secondAc",
+    "groupName": "Камеры",
+    "groupNameEn": "Camera",
+    "enLabel": "Second AC",
+    "description": "Второй ассистент камеры: хлопушка, носители, поддержка 1st AC.",
+    "example": "",
+    "aliases": [
+      "2nd AC"
+    ]
+  },
+  {
+    "positionTitle": "DIT",
+    "code": "digitalImagingTechnician",
+    "groupName": "Камеры",
+    "groupNameEn": "Camera",
+    "enLabel": "Digital Imaging Technician",
+    "description": "Отвечает за цифровой пайплайн изображения: копирование, бэкапы, LUT, контроль качества.",
+    "example": "",
+    "aliases": [
+      "Digital Imaging Technician"
+    ]
+  },
+  {
+    "positionTitle": "Художник по свету",
+    "code": "lightingDesigner",
+    "groupName": "Свет",
+    "groupNameEn": "Lighting",
+    "enLabel": "Lighting Designer",
+    "description": "Художник по свету работает с DP и режиссёром, чтобы создать конкретный вид и атмосферу сцены, используя различные световые техники. Он должен уметь интерпретировать креативное направление и воплощать его в жизнь.",
+    "example": "",
+    "aliases": [
+      "Lighting Designer"
+    ]
+  },
+  {
+    "positionTitle": "Гафер",
+    "code": "gaffer",
+    "groupName": "Свет",
+    "groupNameEn": "Lighting",
+    "enLabel": "Gaffer",
+    "description": "Руководит световой бригадой и реализует световую схему на площадке.",
+    "example": "",
+    "aliases": [
+      "Gaffer",
+      "Chief Lighting Technician"
+    ]
+  },
+  {
+    "positionTitle": "Осветитель",
+    "code": "lightingTechnician",
+    "groupName": "Свет",
+    "groupNameEn": "Lighting",
+    "enLabel": "Lighting Technician",
+    "description": "Устанавливает и обслуживает свет по схеме гафера/художника по свету.",
+    "example": "",
+    "aliases": [
+      "Lighting Technician"
+    ]
+  },
+  {
+    "positionTitle": "Ассистент осветителя",
+    "code": "bestBoyElectric",
+    "groupName": "Свет",
+    "groupNameEn": "Lighting",
+    "enLabel": "Best Boy Electric",
+    "description": "Правая рука гафера: координация электрики и световой бригады.",
+    "example": "",
+    "aliases": [
+      "Best Boy Electric",
+      "Best Boy"
+    ]
+  },
+  {
+    "positionTitle": "Грип",
+    "code": "grip",
+    "groupName": "Свет",
+    "groupNameEn": "Lighting",
+    "enLabel": "Grip",
+    "description": "Грип (Camera Grip) отвечает за сборку и поддержку всех частей камеры и её аксессуаров — штативов, кранов, тележек (dollies) и т.д.",
+    "example": "",
+    "aliases": [
+      "Grip",
+      "Camera Grip"
+    ]
+  },
+  {
+    "positionTitle": "Кей Грип",
+    "code": "keyGrip",
+    "groupName": "Свет",
+    "groupNameEn": "Lighting",
+    "enLabel": "Key Grip",
+    "description": "Руководит грип-бригадой и механической поддержкой съёмочной площадки.",
+    "example": "",
+    "aliases": [
+      "Key Grip"
+    ]
+  },
+  {
+    "positionTitle": "Звукорежиссёр",
+    "code": "soundDirector",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Sound Director",
+    "description": "Руководит звуковым решением проекта и качеством итогового саунда.",
+    "example": "",
+    "aliases": [
+      "Sound Director"
+    ]
+  },
+  {
+    "positionTitle": "Звукооператор",
+    "code": "productionSoundMixer",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Production Sound Mixer",
+    "description": "Записывает и контролирует звук на площадке во время съёмки/записи.",
+    "example": "",
+    "aliases": [
+      "Production Sound Mixer",
+      "Sound Mixer"
+    ]
+  },
+  {
+    "positionTitle": "Звукоинженер",
+    "code": "audioEngineer",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Audio Engineer",
+    "description": "Звукоинженер помогает записывать и производить аудио, настраивая среды записи, мониторя запись и внося технические корректировки на протяжении процесса. Звукоинженер присутствует во время записи и чаще всего вносит правки в реальном времени. Звукоинженер может работать с разговором, музыкой, foley или любым другим типом аудио.",
+    "example": "",
+    "aliases": [
+      "Audio Engineer"
+    ]
+  },
+  {
+    "positionTitle": "Инженер записи",
+    "code": "recordingEngineer",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Recording Engineer",
+    "description": "Отвечает за запись аудиосессии: микрофоны, уровни, треки и чистоту сигнала.",
+    "example": "",
+    "aliases": [
+      "Recording Engineer"
+    ]
+  },
+  {
+    "positionTitle": "Координатор студии",
+    "code": "studioCoordinator",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Studio Coordinator",
+    "description": "Координатор студии управляет студией записи и звуковыми техниками, работающими в студии во время записи.",
+    "example": "",
+    "aliases": [
+      "Studio Coordinator"
+    ]
+  },
+  {
+    "positionTitle": "Технический менеджер",
+    "code": "technicalManager",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Technical Manager",
+    "description": "Технический менеджер координирует команду звукоинженеров и студийный персонал в записи и производстве в части аудиотехнологий, включая оборудование и программное обеспечение.",
+    "example": "",
+    "aliases": [
+      "Technical Manager"
+    ]
+  },
+  {
+    "positionTitle": "Инженер удалённой записи",
+    "code": "remoteRecordingEngineer",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Remote Recording Engineer",
+    "description": "Инженер удалённой записи обеспечивает корректную запись разговоров, которые проходят в нескольких локациях по телефонной линии или интернет-соединению. Инженер удалённой записи оценивает разные сетапы записи и пытается согласовать их в цельный звук, одновременно мониторя процесс записи, чтобы захватить максимально возможное качество аудио.",
+    "example": "",
+    "aliases": [
+      "Remote Recording Engineer"
+    ]
+  },
+  {
+    "positionTitle": "Инженер постпродакшна",
+    "code": "postProductionEngineer",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Post Production Engineer",
+    "description": "Инженер постпродакшна оценивает аудиотехнологии и их применение применительно к финальным шагам производства и публикации.",
+    "example": "",
+    "aliases": [
+      "Post Production Engineer",
+      "Post-Production Engineer"
+    ]
+  },
+  {
+    "positionTitle": "Музыкальный супервайзер",
+    "code": "musicSupervisor",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Music Supervisor",
+    "description": "Музыкальный супервайзер отвечает за выбор, лицензирование или заказ музыки для размещения в подкаст-проектах. Эта роль часто встречается в нарративных подкастах.",
+    "example": "",
+    "aliases": [
+      "Music Supervisor"
+    ]
+  },
+  {
+    "positionTitle": "Микрофонный оператор",
+    "code": "boomOperator",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Boom Operator",
+    "description": "Держит и позиционирует микрофон на удилище для чистой записи диалогов.",
+    "example": "",
+    "aliases": [
+      "Boom Operator",
+      "Бум-оператор",
+      "Boom-оператор"
+    ]
+  },
+  {
+    "positionTitle": "Инженер сведения",
+    "code": "mixingEngineer",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Mixing Engineer",
+    "description": "Сводит дорожки выпуска: баланс, динамика, панорама, чистота диалогов.",
+    "example": "",
+    "aliases": [
+      "Mixing Engineer"
+    ]
+  },
+  {
+    "positionTitle": "Инженер мастеринга",
+    "code": "masteringEngineer",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Mastering Engineer",
+    "description": "Готовит финальный мастер: громкость, пики, совместимость с площадками.",
+    "example": "",
+    "aliases": [
+      "Mastering Engineer"
+    ]
+  },
+  {
+    "positionTitle": "Редактор диалогов",
+    "code": "dialogueEditor",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Dialogue Editor",
+    "description": "Редактирует диалоговые дорожки: склейки, шумы, разборчивость речи.",
+    "example": "",
+    "aliases": [
+      "Dialogue Editor"
+    ]
+  },
+  {
+    "positionTitle": "Foley Artist",
+    "code": "foleyArtist",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Foley Artist",
+    "description": "Foley Artist создаёт звуковые эффекты для подкаста и может делать это как физической записью, так и цифровой обработкой, либо сочетанием того и другого.",
+    "example": "",
+    "aliases": []
+  },
+  {
+    "positionTitle": "RF-инженер",
+    "code": "rfEngineer",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "RF Engineer",
+    "description": "Обеспечивает работу радиомикрофонов и беспроводных аудиосистем.",
+    "example": "",
+    "aliases": [
+      "RF Engineer"
+    ]
+  },
+  {
+    "positionTitle": "Инженер вещательного звука",
+    "code": "broadcastAudioEngineer",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Broadcast Audio Engineer",
+    "description": "Готовит и сопровождает звук для эфирного/стримингового вещания.",
+    "example": "",
+    "aliases": [
+      "Broadcast Audio Engineer"
+    ]
+  },
+  {
+    "positionTitle": "Саунд-дизайнер",
+    "code": "soundDesigner",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Sound Designer",
+    "description": "Саунд-дизайнер создаёт и компонует разнообразные аудиоэлементы. Эти элементы в основном вторичны по отношению к речи, но саунд-дизайнер может креативно монтировать/продюсировать речевые элементы художественным образом.",
+    "example": "",
+    "aliases": [
+      "Sound Designer"
+    ]
+  },
+  {
+    "positionTitle": "Специалист по реставрации звука",
+    "code": "audioRestorationEngineer",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Audio Restoration Engineer",
+    "description": "Восстанавливает проблемные записи: шумы, клиппинг, артефакты, разборчивость.",
+    "example": "",
+    "aliases": [
+      "Audio Restoration Engineer"
+    ]
+  },
+  {
+    "positionTitle": "Композитор",
+    "code": "composer",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Composer",
+    "description": "Композитор пишет оригинальную музыкальную пьесу (или несколько), которая звучит в опубликованном выпуске. Композитор также часто является исполнителем этой музыкальной пьесы. Музыка может создаваться без текста или с сопровождающим текстом, написанным лирицистом.",
+    "example": "",
+    "aliases": [
+      "Composer"
+    ]
+  },
+  {
+    "positionTitle": "Автор музыкальной темы",
+    "code": "themeMusic",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Theme Music",
+    "description": "Автор музыкальной темы создаёт музыкальную пьесу, которая сопровождает подкаст в нескольких выпусках, чаще всего в начале выпуска. Эта музыка используется, чтобы представить подкаст как бренд. Эта роль относится к создателю музыкальной темы.",
+    "example": "",
+    "aliases": [
+      "Theme Music"
+    ]
+  },
+  {
+    "positionTitle": "Музыкальный контрибьютор",
+    "code": "musicContributor",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Music Contributor",
+    "description": "Музыкальный контрибьютор — создатель музыки, которая была использована для подкаста, но не обязательно произведена специально для подкаста. Часто подкаст использует уже существующую музыкальную пьесу и кредитует оригинального создателя.",
+    "example": "",
+    "aliases": [
+      "Music Contributor"
+    ]
+  },
+  {
+    "positionTitle": "Инженер мониторинга",
+    "code": "monitorEngineer",
+    "groupName": "Звук",
+    "groupNameEn": "Audio",
+    "enLabel": "Monitor Engineer",
+    "description": "Настраивает мониторные миксы для ведущих и участников на площадке.",
+    "example": "",
+    "aliases": [
+      "Monitor Engineer"
+    ]
+  },
+  {
+    "positionTitle": "Видеомонтажёр",
+    "code": "videoEditor",
+    "groupName": "Постпродакшн",
+    "groupNameEn": "Post-Production",
+    "enLabel": "Video Editor",
+    "description": "Телевизионные монтажёры отвечают за то, чтобы взять отснятый материал и клипы и соединить их вместе, воплощая видение режиссёра и сторителлинг.",
+    "example": "",
+    "aliases": [
+      "Video Editor",
+      "YouTube Editor",
+      "Монтажёр YouTube"
+    ]
+  },
+  {
+    "positionTitle": "Старший монтажёр",
+    "code": "leadVideoEditor",
+    "groupName": "Постпродакшн",
+    "groupNameEn": "Post-Production",
+    "enLabel": "Lead Video Editor",
+    "description": "Руководит монтажной группой и отвечает за стандарт качества видео.",
+    "example": "",
+    "aliases": [
+      "Lead Video Editor"
+    ]
+  },
+  {
+    "positionTitle": "Ассистент монтажёра",
+    "code": "assistantEditor",
+    "groupName": "Постпродакшн",
+    "groupNameEn": "Post-Production",
+    "enLabel": "Assistant Editor",
+    "description": "Ассистент монтажёра отвечает за то, чтобы забрать медиа с площадки, загрузить их в назначенное монтажное ПО и организовать материал эффективным способом для монтажёра. Он также должен внимательно следить, чтобы звук и видео были синхронизированы и чтобы весь материал с площадки был загружен корректно.",
+    "example": "",
+    "aliases": [
+      "Assistant Editor"
+    ]
+  },
+  {
+    "positionTitle": "Аудиомонтажёр",
+    "code": "audioEditor",
+    "groupName": "Постпродакшн",
+    "groupNameEn": "Post-Production",
+    "enLabel": "Audio Editor",
+    "description": "Аудиомонтажёр режет и перестраивает аудио ради ясности и повествования; может также выполнять общую аудиообработку и мастеринг. В подкастах эту роль часто называют Podcast Editor.",
+    "example": "",
+    "aliases": [
+      "Audio Editor",
+      "Podcast Editor",
+      "Подкаст-редактор"
+    ]
+  },
+  {
+    "positionTitle": "Монтажёр коротких видео",
+    "code": "shortFormEditor",
+    "groupName": "Постпродакшн",
+    "groupNameEn": "Post-Production",
+    "enLabel": "Short-form Editor",
+    "description": "Монтирует короткие вертикальные видео из материалов выпуска для площадок вроде Reels, Shorts, TikTok и аналогов. По сути одна роль: ритм, хук, субтитры и упаковка под короткий формат — независимо от конкретной платформы.",
+    "example": "",
+    "aliases": [
+      "Short-form Editor",
+      "Reelsmaker",
+      "Рилсмейкер",
+      "Reels Editor",
+      "Shorts Editor",
+      "TikTok Editor",
+      "Short Form Editor"
+    ]
+  },
+  {
+    "positionTitle": "Моушн-дизайнер",
+    "code": "motionDesigner",
+    "groupName": "Постпродакшн",
+    "groupNameEn": "Post-Production",
+    "enLabel": "Motion Designer",
+    "description": "Создаёт motion-графику: титры, переходы, анимированные элементы выпуска.",
+    "example": "",
+    "aliases": [
+      "Motion Designer"
+    ]
+  },
+  {
+    "positionTitle": "VFX-художник",
+    "code": "vfxArtist",
+    "groupName": "Постпродакшн",
+    "groupNameEn": "Post-Production",
+    "enLabel": "VFX Artist",
+    "description": "Делает визуальные эффекты и композитинг для видеоверсии.",
+    "example": "",
+    "aliases": [
+      "VFX Artist"
+    ]
+  },
+  {
+    "positionTitle": "CGI-художник",
+    "code": "cgiArtist",
+    "groupName": "Постпродакшн",
+    "groupNameEn": "Post-Production",
+    "enLabel": "CGI Artist",
+    "description": "Создаёт компьютерную графику и 3D/CG-элементы для проекта.",
+    "example": "",
+    "aliases": [
+      "CGI Artist",
+      "CG Artist"
+    ]
+  },
+  {
+    "positionTitle": "Колорист",
+    "code": "colorist",
+    "groupName": "Постпродакшн",
+    "groupNameEn": "Post-Production",
+    "enLabel": "Colorist",
+    "description": "Делает цветокоррекцию и цветоград: единый визуальный тон картинки.",
+    "example": "",
+    "aliases": [
+      "Colorist",
+      "Color Grading Artist"
+    ]
+  },
+  {
+    "positionTitle": "Дизайнер превью",
+    "code": "thumbnailDesigner",
+    "groupName": "Постпродакшн",
+    "groupNameEn": "Post-Production",
+    "enLabel": "Thumbnail Designer",
+    "description": "Создаёт превью/обложки эпизодов для кликабельности на площадках.",
+    "example": "",
+    "aliases": [
+      "Thumbnail Designer"
+    ]
+  },
+  {
+    "positionTitle": "Дизайнер обложек",
+    "code": "coverDesigner",
+    "groupName": "Постпродакшн",
+    "groupNameEn": "Post-Production",
+    "enLabel": "Cover Designer",
+    "description": "Дизайнер обложек (Cover Art Designer) создаёт отображаемую обложку подкаста или выпуска. Для ясности: cover art — это основное изображение (почти всегда квадратное по размерам), сопровождающее подкаст в каталогах, тогда как обложка выпуска отображается аналогичным образом на уровне эпизода. Эту роль может выполнять digital-дизайнер, художник, фотограф или любой другой визуальный креатив.",
+    "example": "",
+    "aliases": [
+      "Cover Designer",
+      "Cover Art Designer"
+    ]
+  },
+  {
+    "positionTitle": "3D-художник",
+    "code": "3dArtist",
+    "groupName": "Постпродакшн",
+    "groupNameEn": "Post-Production",
+    "enLabel": "3D Artist",
+    "description": "Создаёт 3D-модели, сцены и ассеты для графики проекта.",
+    "example": "",
+    "aliases": [
+      "3D Artist"
+    ]
+  },
+  {
+    "positionTitle": "Аниматор",
+    "code": "animator",
+    "groupName": "Постпродакшн",
+    "groupNameEn": "Post-Production",
+    "enLabel": "Animator",
+    "description": "Анимирует персонажей, сцены или графические элементы выпуска.",
+    "example": "",
+    "aliases": [
+      "Animator"
+    ]
+  },
+  {
+    "positionTitle": "2D-аниматор",
+    "code": "2dAnimator",
+    "groupName": "Постпродакшн",
+    "groupNameEn": "Post-Production",
+    "enLabel": "2D Animator",
+    "description": "Создаёт двухмерную анимацию для шоу и промо.",
+    "example": "",
+    "aliases": [
+      "2D Animator"
+    ]
+  },
+  {
+    "positionTitle": "3D-аниматор",
+    "code": "3dAnimator",
+    "groupName": "Постпродакшн",
+    "groupNameEn": "Post-Production",
+    "enLabel": "3D Animator",
+    "description": "Создаёт трёхмерную анимацию персонажей и объектов.",
+    "example": "",
+    "aliases": [
+      "3D Animator"
+    ]
+  },
+  {
+    "positionTitle": "Графический дизайнер",
+    "code": "graphicDesigner",
+    "groupName": "Дизайн",
+    "groupNameEn": "Design",
+    "enLabel": "Graphic Designer",
+    "description": "Графический дизайнер — это тот, кто создал кастомную визуализацию, сопровождающую подкаст разными способами. Эти визуальные материалы могут отображаться в различных медиа и каналах дистрибуции: в соцсетях, рекламных каналах и/или в печатных форматах.",
+    "example": "",
+    "aliases": [
+      "Graphic Designer"
+    ]
+  },
+  {
+    "positionTitle": "Иллюстратор",
+    "code": "illustrator",
+    "groupName": "Дизайн",
+    "groupNameEn": "Design",
+    "enLabel": "Illustrator",
+    "description": "Рисует иллюстрации для обложек, промо и визуальных материалов шоу.",
+    "example": "",
+    "aliases": [
+      "Illustrator"
+    ]
+  },
+  {
+    "positionTitle": "Бренд-дизайнер",
+    "code": "brandDesigner",
+    "groupName": "Дизайн",
+    "groupNameEn": "Design",
+    "enLabel": "Brand Designer",
+    "description": "Развивает визуальный бренд шоу: стиль, гайдлайны, носители.",
+    "example": "",
+    "aliases": [
+      "Brand Designer"
+    ]
+  },
+  {
+    "positionTitle": "UX/UI-дизайнер",
+    "code": "uxUiDesigner",
+    "groupName": "Дизайн",
+    "groupNameEn": "Design",
+    "enLabel": "UX/UI Designer",
+    "description": "Проектирует интерфейсы сайтов, приложений и продуктовых поверхностей шоу.",
+    "example": "",
+    "aliases": [
+      "UX/UI Designer",
+      "Product Designer"
+    ]
+  },
+  {
+    "positionTitle": "Веб-дизайнер",
+    "code": "webDesigner",
+    "groupName": "Дизайн",
+    "groupNameEn": "Design",
+    "enLabel": "Web Designer",
+    "description": "Дизайнит веб-страницы и лендинги проекта.",
+    "example": "",
+    "aliases": [
+      "Web Designer"
+    ]
+  },
+  {
+    "positionTitle": "Дизайнер презентаций",
+    "code": "presentationDesigner",
+    "groupName": "Дизайн",
+    "groupNameEn": "Design",
+    "enLabel": "Presentation Designer",
+    "description": "Готовит презентации для питчей, партнёров и внутренних процессов.",
+    "example": "",
+    "aliases": [
+      "Presentation Designer"
+    ]
+  },
+  {
+    "positionTitle": "Дизайнер соцсетей",
+    "code": "socialMediaDesigner",
+    "groupName": "Дизайн",
+    "groupNameEn": "Design",
+    "enLabel": "Social Media Designer",
+    "description": "Создаёт визуалы для постов, сторис и промо в социальных сетях.",
+    "example": "",
+    "aliases": [
+      "Social Media Designer"
+    ]
+  },
+  {
+    "positionTitle": "Художник-постановщик",
+    "code": "productionDesigner",
+    "groupName": "Студия",
+    "groupNameEn": "Studio and Art Department",
+    "enLabel": "Production Designer",
+    "description": "Отвечает за художественное решение пространства съёмки и общую визуальную среду.",
+    "example": "",
+    "aliases": [
+      "Production Designer"
+    ]
+  },
+  {
+    "positionTitle": "Арт-директор",
+    "code": "artDirector",
+    "groupName": "Студия",
+    "groupNameEn": "Studio and Art Department",
+    "enLabel": "Art Director",
+    "description": "Руководит арт-направлением: декорации, стиль площадки, визуальная целостность.",
+    "example": "",
+    "aliases": [
+      "Art Director"
+    ]
+  },
+  {
+    "positionTitle": "Сценограф",
+    "code": "scenicDesigner",
+    "groupName": "Студия",
+    "groupNameEn": "Studio and Art Department",
+    "enLabel": "Scenic Designer",
+    "description": "Проектирует сценическое/студийное пространство под формат шоу.",
+    "example": "",
+    "aliases": [
+      "Scenic Designer"
+    ]
+  },
+  {
+    "positionTitle": "Декоратор",
+    "code": "setDecorator",
+    "groupName": "Студия",
+    "groupNameEn": "Studio and Art Department",
+    "enLabel": "Set Decorator",
+    "description": "Наполняет площадку декорациями и деталями среды.",
+    "example": "",
+    "aliases": [
+      "Set Decorator"
+    ]
+  },
+  {
+    "positionTitle": "Реквизитор",
+    "code": "propsMaster",
+    "groupName": "Студия",
+    "groupNameEn": "Studio and Art Department",
+    "enLabel": "Props Master",
+    "description": "Готовит и сопровождает реквизит на площадке.",
+    "example": "",
+    "aliases": [
+      "Props Master",
+      "Property Master"
+    ]
+  },
+  {
+    "positionTitle": "Бутафор",
+    "code": "propMaker",
+    "groupName": "Студия",
+    "groupNameEn": "Studio and Art Department",
+    "enLabel": "Prop Maker",
+    "description": "Изготавливает бутафорию и специальные реквизитные объекты.",
+    "example": "",
+    "aliases": [
+      "Prop Maker"
+    ]
+  },
+  {
+    "positionTitle": "Гримёр",
+    "code": "makeupArtist",
+    "groupName": "Внешний вид",
+    "groupNameEn": "Hair, Makeup and Wardrobe",
+    "enLabel": "Makeup Artist",
+    "description": "Делает грим и макияж для камеры: тон, коррекция, стойкость образа в кадре или эфире.",
+    "example": "",
+    "aliases": [
+      "Makeup Artist",
+      "Make-up Artist",
+      "Визажист",
+      "Beauty Makeup Artist",
+      "MUAH",
+      "Makeup"
+    ]
+  },
+  {
+    "positionTitle": "Парикмахер",
+    "code": "hairStylist",
+    "groupName": "Внешний вид",
+    "groupNameEn": "Hair, Makeup and Wardrobe",
+    "enLabel": "Hair Stylist",
+    "description": "Отвечает за причёски и укладку участников перед камерой.",
+    "example": "",
+    "aliases": [
+      "Hair Stylist"
+    ]
+  },
+  {
+    "positionTitle": "Стилист",
+    "code": "stylist",
+    "groupName": "Внешний вид",
+    "groupNameEn": "Hair, Makeup and Wardrobe",
+    "enLabel": "Stylist",
+    "description": "Собирает общий визуальный образ участников: одежда, детали, стиль шоу.",
+    "example": "",
+    "aliases": [
+      "Stylist"
+    ]
+  },
+  {
+    "positionTitle": "Имиджмейкер",
+    "code": "imageConsultant",
+    "groupName": "Внешний вид",
+    "groupNameEn": "Hair, Makeup and Wardrobe",
+    "enLabel": "Image Consultant",
+    "description": "Формирует устойчивый публичный образ ведущего или таланта.",
+    "example": "",
+    "aliases": [
+      "Image Consultant",
+      "Image Maker"
+    ]
+  },
+  {
+    "positionTitle": "Костюмер",
+    "code": "costumeDesigner",
+    "groupName": "Внешний вид",
+    "groupNameEn": "Hair, Makeup and Wardrobe",
+    "enLabel": "Costume Designer",
+    "description": "Подбирает и сопровождает костюмы участников на площадке.",
+    "example": "",
+    "aliases": [
+      "Costume Designer",
+      "Wardrobe Stylist"
+    ]
+  },
+  {
+    "positionTitle": "Оператор стрим-софта",
+    "code": "obsOperator",
+    "groupName": "Стриминг",
+    "groupNameEn": "Streaming and Broadcast Tech",
+    "enLabel": "OBS Operator",
+    "description": "Управляет сценами, источниками и выводом трансляции в OBS, vMix и аналогичном switching-софте.",
+    "example": "",
+    "aliases": [
+      "OBS Operator",
+      "vMix Operator",
+      "Vmix Operator",
+      "Stream Switcher Operator"
+    ]
+  },
+  {
+    "positionTitle": "Инженер вещания",
+    "code": "broadcastEngineer",
+    "groupName": "Стриминг",
+    "groupNameEn": "Streaming and Broadcast Tech",
+    "enLabel": "Broadcast Engineer",
+    "description": "Обеспечивает техническую стабильность вещательного тракта.",
+    "example": "",
+    "aliases": [
+      "Broadcast Engineer"
+    ]
+  },
+  {
+    "positionTitle": "Стриминг-инженер",
+    "code": "streamingEngineer",
+    "groupName": "Стриминг",
+    "groupNameEn": "Streaming and Broadcast Tech",
+    "enLabel": "Streaming Engineer",
+    "description": "Настраивает и сопровождает стриминговую доставку сигнала на площадки.",
+    "example": "",
+    "aliases": [
+      "Streaming Engineer"
+    ]
+  },
+  {
+    "positionTitle": "Инженер кодирования",
+    "code": "encodingEngineer",
+    "groupName": "Стриминг",
+    "groupNameEn": "Streaming and Broadcast Tech",
+    "enLabel": "Encoding Engineer",
+    "description": "Отвечает за кодирование потока: битрейт, кодеки, стабильность энкода.",
+    "example": "",
+    "aliases": [
+      "Encoding Engineer"
+    ]
+  },
+  {
+    "positionTitle": "Видеоинженер",
+    "code": "videoEngineer",
+    "groupName": "Стриминг",
+    "groupNameEn": "Streaming and Broadcast Tech",
+    "enLabel": "Video Engineer",
+    "description": "Обеспечивает качество видеосигнала и работу видеооборудования.",
+    "example": "",
+    "aliases": [
+      "Video Engineer"
+    ]
+  },
+  {
+    "positionTitle": "AV-инженер",
+    "code": "avEngineer",
+    "groupName": "Стриминг",
+    "groupNameEn": "Streaming and Broadcast Tech",
+    "enLabel": "AV Engineer",
+    "description": "Сопровождает аудиовизуальные системы площадки и интеграцию оборудования.",
+    "example": "",
+    "aliases": [
+      "AV Engineer"
+    ]
+  },
+  {
+    "positionTitle": "Системный инженер",
+    "code": "systemsEngineer",
+    "groupName": "Стриминг",
+    "groupNameEn": "Streaming and Broadcast Tech",
+    "enLabel": "Systems Engineer",
+    "description": "Проектирует и поддерживает технические системы студии/вещания.",
+    "example": "",
+    "aliases": [
+      "Systems Engineer"
+    ]
+  },
+  {
+    "positionTitle": "Студийный инженер",
+    "code": "studioEngineer",
+    "groupName": "Стриминг",
+    "groupNameEn": "Streaming and Broadcast Tech",
+    "enLabel": "Studio Engineer",
+    "description": "Обеспечивает техническую готовность студии к записи и эфиру.",
+    "example": "",
+    "aliases": [
+      "Studio Engineer"
+    ]
+  },
+  {
+    "positionTitle": "Чат-модератор",
+    "code": "chatModerator",
+    "groupName": "Стриминг",
+    "groupNameEn": "Streaming and Broadcast Tech",
+    "enLabel": "Chat Moderator",
+    "description": "Модерирует чат во время прямого эфира и помогает с обратной связью аудитории.",
+    "example": "",
+    "aliases": [
+      "Chat Moderator"
+    ]
+  },
+  {
+    "positionTitle": "Модератор эфира",
+    "code": "liveModerator",
+    "groupName": "Стриминг",
+    "groupNameEn": "Streaming and Broadcast Tech",
+    "enLabel": "Live Moderator",
+    "description": "Модерирует взаимодействие в прямом эфире: вопросы, правила, динамика.",
+    "example": "",
+    "aliases": [
+      "Live Moderator"
+    ]
+  },
+  {
+    "positionTitle": "Контент-менеджер",
+    "code": "contentManager",
+    "groupName": "Публикация",
+    "groupNameEn": "Publishing and Distribution",
+    "enLabel": "Content Manager",
+    "description": "Контент-менеджер отвечает за дистрибуцию контента подкаста внутри каждого выпуска и вокруг него, включая, но не ограничиваясь, клипы, рассылки, изображения, кросс-промо и многое другое.",
+    "example": "",
+    "aliases": [
+      "Content Manager"
+    ]
+  },
+  {
+    "positionTitle": "Менеджер дистрибуции",
+    "code": "distributionManager",
+    "groupName": "Публикация",
+    "groupNameEn": "Publishing and Distribution",
+    "enLabel": "Distribution Manager",
+    "description": "Ведёт дистрибуцию и публикации подкаста на площадках (каталоги, YouTube, Spotify, Apple Podcasts, RSS и др.): карточки, плейлисты, фиды и оптимизация присутствия.",
+    "example": "",
+    "aliases": [
+      "Distribution Manager",
+      "YouTube Manager",
+      "Spotify Manager",
+      "Apple Podcasts Manager",
+      "RSS Manager",
+      "Podcast Manager",
+      "Publishing Manager",
+      "Менеджер публикаций",
+      "Менеджер подкаста",
+      "YouTube-менеджер",
+      "Менеджер Spotify",
+      "Менеджер Apple Podcasts",
+      "RSS-менеджер"
+    ]
+  },
+  {
+    "positionTitle": "Маркетинг-менеджер",
+    "code": "marketingManager",
+    "groupName": "Маркетинг",
+    "groupNameEn": "Marketing",
+    "enLabel": "Marketing Manager",
+    "description": "Маркетинг-менеджер отвечает за продвижение контента подкаста через различные стратегии узнаваемости: кампании в соцсетях, развитие веб-присутствия, управление PR и коммуникационными стратегиями, а также другие креативные техники для привлечения и удержания слушателей. Также известен как: Podcast Marketing Coordinator, Podcast Marketer.",
+    "example": "",
+    "aliases": [
+      "Marketing Manager",
+      "Podcast Marketing Coordinator",
+      "Podcast Marketer"
+    ]
+  },
+  {
+    "positionTitle": "SMM-менеджер",
+    "code": "socialMediaManager",
+    "groupName": "Маркетинг",
+    "groupNameEn": "Marketing",
+    "enLabel": "Social Media Manager",
+    "description": "SMM-менеджер ведёт аккаунты подкаста в социальных сетях, включая, но не ограничиваясь, создание контента, публикации, ответы, мониторинг и многое другое.",
+    "example": "",
+    "aliases": [
+      "Social Media Manager",
+      "SMM Manager"
+    ]
+  },
+  {
+    "positionTitle": "PR-менеджер",
+    "code": "prManager",
+    "groupName": "Маркетинг",
+    "groupNameEn": "Marketing",
+    "enLabel": "PR Manager",
+    "description": "Отвечает за PR: упоминания, питчи, репутацию и внешние коммуникации.",
+    "example": "",
+    "aliases": [
+      "PR Manager"
+    ]
+  },
+  {
+    "positionTitle": "Комьюнити-менеджер",
+    "code": "communityManager",
+    "groupName": "Маркетинг",
+    "groupNameEn": "Marketing",
+    "enLabel": "Community Manager",
+    "description": "Комьюнити-менеджер помогает управлять, модерировать и обеспечивать плавный онбординг для закрытого сообщества подкаста. Это может быть на различных community-платформах для креаторов и подкастеров, membership-платформах для подписки на премиум-контент подкаста и многом другом.",
+    "example": "",
+    "aliases": [
+      "Community Manager"
+    ]
+  },
+  {
+    "positionTitle": "SEO-специалист",
+    "code": "seoSpecialist",
+    "groupName": "Маркетинг",
+    "groupNameEn": "Marketing",
+    "enLabel": "SEO Specialist",
+    "description": "Оптимизирует обнаруживаемость контента в поиске и каталогах, включая ASO-задачи для карточек шоу в сторах и подкаст-каталогах.",
+    "example": "",
+    "aliases": [
+      "SEO Specialist",
+      "ASO Specialist",
+      "ASO-специалист"
+    ]
+  },
+  {
+    "positionTitle": "Performance-маркетолог",
+    "code": "performanceMarketer",
+    "groupName": "Маркетинг",
+    "groupNameEn": "Marketing",
+    "enLabel": "Performance Marketer",
+    "description": "Запускает и оптимизирует платное продвижение с фокусом на измеримый результат.",
+    "example": "",
+    "aliases": [
+      "Performance Marketer"
+    ]
+  },
+  {
+    "positionTitle": "Email-маркетолог",
+    "code": "emailMarketingManager",
+    "groupName": "Маркетинг",
+    "groupNameEn": "Marketing",
+    "enLabel": "Email Marketing Manager",
+    "description": "Ведёт email-рассылки и nurturing-коммуникации со слушателями.",
+    "example": "",
+    "aliases": [
+      "Email Marketing Manager",
+      "Email Marketer"
+    ]
+  },
+  {
+    "positionTitle": "Контент-маркетолог",
+    "code": "contentMarketer",
+    "groupName": "Маркетинг",
+    "groupNameEn": "Marketing",
+    "enLabel": "Content Marketer",
+    "description": "Строит контент-маркетинг вокруг шоу: статьи, промо, воронки.",
+    "example": "",
+    "aliases": [
+      "Content Marketer"
+    ]
+  },
+  {
+    "positionTitle": "Менеджер партнёрств",
+    "code": "partnershipManager",
+    "groupName": "Маркетинг",
+    "groupNameEn": "Marketing",
+    "enLabel": "Partnership Manager",
+    "description": "Развивает партнёрства и совместные активности с брендами и медиа.",
+    "example": "",
+    "aliases": [
+      "Partnership Manager",
+      "Brand Partnerships Manager",
+      "Integrations Manager",
+      "Менеджер интеграций"
+    ]
+  },
+  {
+    "positionTitle": "Бренд-менеджер",
+    "code": "brandManager",
+    "groupName": "Маркетинг",
+    "groupNameEn": "Marketing",
+    "enLabel": "Brand Manager",
+    "description": "Управляет позиционированием и целостностью бренда шоу.",
+    "example": "",
+    "aliases": [
+      "Brand Manager"
+    ]
+  },
+  {
+    "positionTitle": "BI-аналитик",
+    "code": "biAnalyst",
+    "groupName": "Аналитика",
+    "groupNameEn": "Analytics",
+    "enLabel": "BI Analyst",
+    "description": "Строит отчёты и дашборды для решений по росту и производству.",
+    "example": "",
+    "aliases": [
+      "BI Analyst"
+    ]
+  },
+  {
+    "positionTitle": "Аналитик данных",
+    "code": "dataAnalyst",
+    "groupName": "Аналитика",
+    "groupNameEn": "Analytics",
+    "enLabel": "Data Analyst",
+    "description": "Анализирует метрики прослушиваний, удержания и эффективности контента.",
+    "example": "",
+    "aliases": [
+      "Data Analyst",
+      "Analyst"
+    ]
+  },
+  {
+    "positionTitle": "Подкаст-аналитик",
+    "code": "podcastAnalyst",
+    "groupName": "Аналитика",
+    "groupNameEn": "Analytics",
+    "enLabel": "Podcast Analyst",
+    "description": "Анализирует подкаст-метрики: скачивания, удержание, источники трафика.",
+    "example": "",
+    "aliases": [
+      "Podcast Analyst",
+      "YouTube Analyst",
+      "YouTube-аналитик"
+    ]
+  },
+  {
+    "positionTitle": "Аналитик роста",
+    "code": "growthAnalyst",
+    "groupName": "Аналитика",
+    "groupNameEn": "Analytics",
+    "enLabel": "Growth Analyst",
+    "description": "Ищет точки роста аудитории и помогает проверять growth-гипотезы.",
+    "example": "",
+    "aliases": [
+      "Growth Analyst"
+    ]
+  },
+  {
+    "positionTitle": "Специалист по A/B-тестам",
+    "code": "aBTestingSpecialist",
+    "groupName": "Аналитика",
+    "groupNameEn": "Analytics",
+    "enLabel": "A/B Testing Specialist",
+    "description": "Проектирует и анализирует A/B-тесты обложек, заголовков и промо.",
+    "example": "",
+    "aliases": [
+      "A/B Testing Specialist"
+    ]
+  },
+  {
+    "positionTitle": "Менеджер по рекламе",
+    "code": "advertisingSalesManager",
+    "groupName": "Продажи",
+    "groupNameEn": "Sales",
+    "enLabel": "Advertising Sales Manager",
+    "description": "Продаёт рекламные размещения и ведёт рекламодателей.",
+    "example": "",
+    "aliases": [
+      "Advertising Sales Manager",
+      "Ad Sales Manager",
+      "Advertising Manager",
+      "Менеджер рекламы"
+    ]
+  },
+  {
+    "positionTitle": "Спонсоршип-менеджер",
+    "code": "sponsorshipManager",
+    "groupName": "Продажи",
+    "groupNameEn": "Sales",
+    "enLabel": "Sponsorship Manager",
+    "description": "Отвечает за спонсорские пакеты, сделки и сопровождение спонсоров.",
+    "example": "",
+    "aliases": [
+      "Sponsorship Manager",
+      "Sponsorship Sales Manager",
+      "Менеджер спонсорских интеграций",
+      "Integrations Sales Manager"
+    ]
+  },
+  {
+    "positionTitle": "Менеджер по продажам",
+    "code": "salesManager",
+    "groupName": "Продажи",
+    "groupNameEn": "Sales",
+    "enLabel": "Sales Manager",
+    "description": "Менеджер по продажам (Sales Manager) отвечает за все аспекты монетизации подкаста: курирование Sales Representatives, управление рекламным инвентарём и разработку стратегий монетизации через такие каналы, как партнёрские программы, мерч, live-события и другие стратегии дохода.",
+    "example": "",
+    "aliases": [
+      "Sales Manager"
+    ]
+  },
+  {
+    "positionTitle": "Менеджер по продаже рекламы",
+    "code": "salesRepresentative",
+    "groupName": "Продажи",
+    "groupNameEn": "Sales",
+    "enLabel": "Sales Representative",
+    "description": "Менеджер по продаже рекламы (Sales Representative) отвечает за монетизацию подкаст-контента через управление и продажу рекламного инвентаря.",
+    "example": "",
+    "aliases": [
+      "Sales Representative"
+    ]
+  },
+  {
+    "positionTitle": "Юрист",
+    "code": "legalCounsel",
+    "groupName": "Юридический блок",
+    "groupNameEn": "Legal",
+    "enLabel": "Legal Counsel",
+    "description": "Сопровождает договоры, риски и правовые вопросы производства.",
+    "example": "",
+    "aliases": [
+      "Legal Counsel",
+      "Lawyer"
+    ]
+  },
+  {
+    "positionTitle": "Специалист по авторскому праву",
+    "code": "copyrightSpecialist",
+    "groupName": "Юридический блок",
+    "groupNameEn": "Legal",
+    "enLabel": "Copyright Specialist",
+    "description": "Разбирает права на музыку, клипы, материалы гостей и лицензии.",
+    "example": "",
+    "aliases": [
+      "Copyright Specialist"
+    ]
+  },
+  {
+    "positionTitle": "Менеджер лицензирования",
+    "code": "licensingManager",
+    "groupName": "Юридический блок",
+    "groupNameEn": "Legal",
+    "enLabel": "Licensing Manager",
+    "description": "Управляет лицензиями на контент, музыку и права использования.",
+    "example": "",
+    "aliases": [
+      "Licensing Manager"
+    ]
+  },
+  {
+    "positionTitle": "Бухгалтер",
+    "code": "accountant",
+    "groupName": "Финансы",
+    "groupNameEn": "Finance",
+    "enLabel": "Accountant",
+    "description": "Ведёт учёт и финансовую отчётность проекта или студии.",
+    "example": "",
+    "aliases": [
+      "Accountant"
+    ]
+  },
+  {
+    "positionTitle": "Финансовый менеджер",
+    "code": "financeManager",
+    "groupName": "Финансы",
+    "groupNameEn": "Finance",
+    "enLabel": "Finance Manager",
+    "description": "Управляет бюджетами, cashflow и финансовой моделью проекта.",
+    "example": "",
+    "aliases": [
+      "Finance Manager"
+    ]
+  },
+  {
+    "positionTitle": "Экономист проекта",
+    "code": "projectEconomist",
+    "groupName": "Финансы",
+    "groupNameEn": "Finance",
+    "enLabel": "Project Economist",
+    "description": "Считает экономику проекта: себестоимость, маржинальность, сценарии.",
+    "example": "",
+    "aliases": [
+      "Project Economist"
+    ]
+  },
+  {
+    "positionTitle": "Фронтенд-разработчик",
+    "code": "frontendDeveloper",
+    "groupName": "IT",
+    "groupNameEn": "IT",
+    "enLabel": "Frontend Developer",
+    "description": "Разрабатывает клиентскую часть сайтов и продуктов вокруг шоу.",
+    "example": "",
+    "aliases": [
+      "Frontend Developer",
+      "Front-end Developer"
+    ]
+  },
+  {
+    "positionTitle": "Бэкенд-разработчик",
+    "code": "backendDeveloper",
+    "groupName": "IT",
+    "groupNameEn": "IT",
+    "enLabel": "Backend Developer",
+    "description": "Разрабатывает серверную логику, API и интеграции.",
+    "example": "",
+    "aliases": [
+      "Backend Developer",
+      "Back-end Developer"
+    ]
+  },
+  {
+    "positionTitle": "Фулстек-разработчик",
+    "code": "fullStackDeveloper",
+    "groupName": "IT",
+    "groupNameEn": "IT",
+    "enLabel": "Full-stack Developer",
+    "description": "Ведёт и фронтенд, и бэкенд разработку продукта.",
+    "example": "",
+    "aliases": [
+      "Full-stack Developer",
+      "Fullstack Developer"
+    ]
+  },
+  {
+    "positionTitle": "Веб-разработчик",
+    "code": "webDeveloper",
+    "groupName": "IT",
+    "groupNameEn": "IT",
+    "enLabel": "Web Developer",
+    "description": "Разрабатывает и поддерживает веб-продукты проекта.",
+    "example": "",
+    "aliases": [
+      "Web Developer"
+    ]
+  },
+  {
+    "positionTitle": "Девопс-инженер",
+    "code": "devopsEngineer",
+    "groupName": "IT",
+    "groupNameEn": "IT",
+    "enLabel": "DevOps Engineer",
+    "description": "Настраивает CI/CD, инфраструктуру и стабильность сервисов.",
+    "example": "",
+    "aliases": [
+      "DevOps Engineer"
+    ]
+  },
+  {
+    "positionTitle": "QA-инженер",
+    "code": "qaEngineer",
+    "groupName": "IT",
+    "groupNameEn": "IT",
+    "enLabel": "QA Engineer",
+    "description": "Тестирует продукты и процессы на дефекты до релиза.",
+    "example": "",
+    "aliases": [
+      "QA Engineer",
+      "Quality Assurance Engineer"
+    ]
+  },
+  {
+    "positionTitle": "Системный администратор",
+    "code": "systemAdministrator",
+    "groupName": "IT",
+    "groupNameEn": "IT",
+    "enLabel": "System Administrator",
+    "description": "Администрирует серверы, доступы и рабочую IT-инфраструктуру.",
+    "example": "",
+    "aliases": [
+      "System Administrator",
+      "Sysadmin"
+    ]
+  },
+  {
+    "positionTitle": "CRM-специалист",
+    "code": "crmSpecialist",
+    "groupName": "IT",
+    "groupNameEn": "IT",
+    "enLabel": "CRM Specialist",
+    "description": "Настраивает и ведёт CRM-процессы для аудитории, лидов и партнёров.",
+    "example": "",
+    "aliases": [
+      "CRM Specialist"
+    ]
+  },
+  {
+    "positionTitle": "Инженер автоматизации",
+    "code": "automationEngineer",
+    "groupName": "IT",
+    "groupNameEn": "IT",
+    "enLabel": "Automation Engineer",
+    "description": "Автоматизирует публикации, пайплайны и рутинные операционные процессы.",
+    "example": "",
+    "aliases": [
+      "Automation Engineer"
+    ]
+  },
+  {
+    "positionTitle": "Промпт-инженер",
+    "code": "promptEngineer",
+    "groupName": "Искусственный интеллект",
+    "groupNameEn": "Artificial Intelligence",
+    "enLabel": "Prompt Engineer",
+    "description": "Проектирует промпты и сценарии работы с ИИ-инструментами в производстве.",
+    "example": "",
+    "aliases": [
+      "Prompt Engineer",
+      "Промт-инженер"
+    ]
+  },
+  {
+    "positionTitle": "ИИ-продюсер",
+    "code": "aiProducer",
+    "groupName": "Искусственный интеллект",
+    "groupNameEn": "Artificial Intelligence",
+    "enLabel": "AI Producer",
+    "description": "Продюсирует процессы с использованием ИИ: пайплайны, качество, сроки.",
+    "example": "",
+    "aliases": [
+      "AI Producer",
+      "AI-продюсер"
+    ]
+  },
+  {
+    "positionTitle": "ИИ-редактор",
+    "code": "aiEditor",
+    "groupName": "Искусственный интеллект",
+    "groupNameEn": "Artificial Intelligence",
+    "enLabel": "AI Editor",
+    "description": "Редактирует и монтирует материалы с опорой на ИИ-инструменты (текст, видео, аудио) и контролирует итоговый смысл и качество.",
+    "example": "",
+    "aliases": [
+      "AI Editor",
+      "AI-редактор",
+      "AI Editor (Video/Audio)",
+      "AI Video Editor",
+      "AI Audio Editor",
+      "ИИ-монтажёр",
+      "ИИ-монтажер"
+    ]
+  },
+  {
+    "positionTitle": "ИИ-дизайнер",
+    "code": "aiDesigner",
+    "groupName": "Искусственный интеллект",
+    "groupNameEn": "Artificial Intelligence",
+    "enLabel": "AI Designer",
+    "description": "Создаёт визуальные материалы с помощью генеративных ИИ-инструментов.",
+    "example": "",
+    "aliases": [
+      "AI Designer",
+      "AI-дизайнер"
+    ]
+  },
+  {
+    "positionTitle": "ИИ-исследователь",
+    "code": "aiResearcher",
+    "groupName": "Искусственный интеллект",
+    "groupNameEn": "Artificial Intelligence",
+    "enLabel": "AI Researcher",
+    "description": "Исследует и внедряет ИИ-подходы в производство и дистрибуцию контента.",
+    "example": "",
+    "aliases": [
+      "AI Researcher",
+      "AI-исследователь"
+    ]
+  },
+  {
+    "positionTitle": "Специалист по AI-автоматизации",
+    "code": "aiAutomationSpecialist",
+    "groupName": "Искусственный интеллект",
+    "groupNameEn": "Artificial Intelligence",
+    "enLabel": "AI Automation Specialist",
+    "description": "Строит автоматизации на базе ИИ для редакционных и производственных задач.",
+    "example": "",
+    "aliases": [
+      "AI Automation Specialist"
+    ]
+  }
+]
