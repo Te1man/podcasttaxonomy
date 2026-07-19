@@ -1,0 +1,58 @@
+name: Правка описания
+description: Исправить или уточнить существующую роль
+title: "[правка]: "
+labels: ["правка описания"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Укажите роль из [`taxonomies/creator-roles.json`](https://github.com/Te1man/podcasttaxonomy/blob/main/taxonomies/creator-roles.json).
+  - type: input
+    id: code
+    attributes:
+      label: code роли
+      description: Стабильный идентификатор, например executiveProducer
+      placeholder: executiveProducer
+    validations:
+      required: true
+  - type: input
+    id: title_ru
+    attributes:
+      label: Текущее название (RU)
+      placeholder: Исполнительный продюсер
+    validations:
+      required: true
+  - type: dropdown
+    id: what
+    attributes:
+      label: Что нужно изменить
+      multiple: true
+      options:
+        - Название (RU)
+        - English label
+        - Описание
+        - Группа
+        - Aliases
+        - Другое
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Как сейчас
+      description: Вставьте текущий текст или кратко опишите проблему
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Предлагаемая формулировка
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Почему так лучше
+      description: Опечатка, устаревший смысл, конфликт с практикой индустрии и т.п.
+    validations:
+      required: true

@@ -2,6 +2,8 @@
 
 Открытая таксономия ролей производства подкастов для русскоязычной индустрии: названия, группы и описания в машиночитаемом JSON.
 
+Сайт словаря: https://podcasttaxonomy.ru/
+
 Совместима по духу с международным стандартом [Podcast Taxonomy](https://github.com/podcasttaxonomy/podcasttaxonomy): общий язык для кредитов, вакансий и продуктов в подкастинге.
 
 ## Можно ли пользоваться бесплатно?
@@ -32,6 +34,7 @@
 
 ```text
 Таксономия ролей: «Словарь подкастинга»
+https://podcasttaxonomy.ru/
 https://github.com/Te1man/podcasttaxonomy
 Лицензия: CC BY-SA 4.0
 ```
@@ -41,8 +44,8 @@ https://github.com/Te1man/podcasttaxonomy
 ```html
 <p>
   Таксономия ролей:
-  <a href="https://github.com/Te1man/podcasttaxonomy">Словарь подкастинга</a>
-  (CC BY-SA 4.0)
+  <a href="https://podcasttaxonomy.ru/">Словарь подкастинга</a>
+  (<a href="https://github.com/Te1man/podcasttaxonomy">GitHub</a>, CC BY-SA 4.0)
 </p>
 ```
 
@@ -106,4 +109,10 @@ const roles = await res.json();
 
 ## Вклад
 
-Предложения по ролям и правкам описаний приветствуются через Issues и Pull Requests в этом репозитории. Отправляя вклад, вы соглашаетесь на публикацию текста под CC BY-SA 4.0.
+Предложения по ролям и правкам описаний приветствуются через Issues и Pull Requests.
+
+- Как участвовать: [`CONTRIBUTING.md`](./CONTRIBUTING.md)
+- Кодекс поведения: [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md)
+- Шаблоны Issue: «Новая роль» и «Правка описания»
+
+Отправляя вклад, вы соглашаетесь на публикацию текста под CC BY-SA 4.0.

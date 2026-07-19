@@ -1,0 +1,58 @@
+name: Новая роль
+description: Предложить роль, которой ещё нет в таксономии
+title: "[роль]: "
+labels: ["новая роль"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Перед отправкой проверьте [`taxonomies/creator-roles.json`](https://github.com/Te1man/podcasttaxonomy/blob/main/taxonomies/creator-roles.json), нет ли уже похожей роли.
+  - type: input
+    id: title_ru
+    attributes:
+      label: Название на русском
+      placeholder: Исполнительный продюсер
+    validations:
+      required: true
+  - type: input
+    id: title_en
+    attributes:
+      label: English label
+      placeholder: Executive Producer
+    validations:
+      required: true
+  - type: input
+    id: group
+    attributes:
+      label: Группа (RU) / Group (EN)
+      description: Например «Продюсирование» / Producing
+      placeholder: Продюсирование / Producing
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Описание обязанностей
+      description: 1–3 предложения, нейтрально и по делу
+      placeholder: Координирует…
+    validations:
+      required: true
+  - type: textarea
+    id: aliases
+    attributes:
+      label: Синонимы и альтернативные названия
+      description: Через запятую, если есть
+      placeholder: EP, Executive Producer
+  - type: textarea
+    id: why
+    attributes:
+      label: Почему это не дубликат
+      description: Чем роль отличается от уже существующих
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Источники или примеры употребления
+      description: Вакансии, кредиты шоу, отраслевые материалы (без рекламы продуктов)
+      placeholder: 2–3 ссылки или примера
